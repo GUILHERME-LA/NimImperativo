@@ -1,3 +1,10 @@
+## Alunos
+Murilo Ferreira
+Yan dos Santos Silva
+Guilherme Viera Costa
+Kalipio dos Santos Oliveira
+Italo Kevyn
+
 ## Referências
 
 1. [Wikipedia](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_imperativa)
@@ -18,3 +25,4 @@
 16. [Fortran: a linguagem que revolucionou a computação científica](https://t1noticias.com.br/estado/fortran-a-linguagem-que-revolucionou-a-computacao-cientifica/129443)
 17. [Lista de alguns softwares famosos escritos em C++](https://terminalroot.com.br/2021/03/lista-de-alguns-softwares-famosos-escritos-em-cpp.html)
 18. [Inteligência artificial e as línguagens de programação](https://www.dio.me/articles/inteligencia-artificial-e-as-linguagens-de-programacao)
+    
